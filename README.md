@@ -8,4 +8,4 @@
 - npm run dev
 - php artisan websockets:serve
 - http://127.0.0.1:8000/laravel-websocket -> connect para ver si todo esta bien 
-- abre dos pestañas del navegadro en una entra a la ruta http://127.0.0.1:8000/ver y abre consola en otra entra la ruta http://127.0.0.1:8000/test, el evento deberia llegar a la consola de la ruta ver
+- abre dos pestañas del navegador en una entra a la ruta http://127.0.0.1:8000/ver y abre consola en otra entra la ruta http://127.0.0.1:8000/test, el evento deberia llegar a la consola de la ruta ver
