@@ -1,3 +1,4 @@
+* php 8.1 para arriba
 - copiar .env.example .env //configurar variables de entorno si es necesario
 - composer install
 - php artisan key:generate
